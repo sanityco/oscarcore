@@ -1,0 +1,2 @@
+{"timestamp": "2025-07-04T19:21:43.728121", "user": "alice", "action": "create", "resource": "project-123", "details": {"description": "Initial project creation"}}
+{"timestamp": "2025-07-04T19:21:43.728510", "user": "bob", "action": "delete", "resource": "project-456", "details": {"reason": "Project deprecated"}}

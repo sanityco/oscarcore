@@ -1,0 +1,9 @@
+allowed_hosts:
+- localhost
+- 127.0.0.1
+app_name: Oscar
+database_url: sqlite:///oscar.db
+dummy_key: dummy_value
+log_level: INFO
+max_workers: 5
+version: '1.0'
